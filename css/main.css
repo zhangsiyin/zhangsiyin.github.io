@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #698eff;
+  background: #d11b95;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2290,9 +2290,20 @@ embed {
   white-space: nowrap;
 }
 body {
-  background: url("/assets/background.jpg");
+  background: url("/assets/Curry.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
-  opacity: 0.8;
+}
+.content-wrap {
+  background: rgba(237,237,237,0.9);
+}
+.sidebar {
+  opacity: 0.9;
+}
+.header-inner {
+  background: rgba(255,255,255,0.9);
+}
+.popup {
+  opacity: 0.9;
 }
