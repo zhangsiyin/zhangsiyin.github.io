@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #229ae9;
+  background: #1fffb8;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2290,7 +2290,7 @@ embed {
   white-space: nowrap;
 }
 body {
-  background: url("/assets/background.jpg");
+  background: url("/assets/Curry.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
